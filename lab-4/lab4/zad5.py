@@ -1,0 +1,1 @@
+krótka = ('ponidziałek' , 'wtorek' , 'środa' , 'czwartek' , 'piątek' , 'sobota' , 'niedziela')
